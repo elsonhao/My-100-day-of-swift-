@@ -17,7 +17,7 @@
 ![](https://cdn-images-1.medium.com/max/1760/1*2Ni4NOD1J86TFDjeUXMTEA.gif)
 
 6.Json parse with custom tableviewCell (use techcrunch News API) —Part 1
-![](https://cdn-images-1.medium.com/max/1760/1*s4JY6W0oG2-U64teXIvS2g.gif)
+![](https://cdn-images-1.medium.com/max/1760/1*Ucei4DybeKUTN78X1UYTQQ.gif)
 
 7.電影列表app-資料無法儲存(可以新增,編輯,修改,利用陣列搭配字典資料)
 ![](https://cdn-images-1.medium.com/max/1760/1*WoQuWWnMB7oYpTbyD_U-KA.gif)
