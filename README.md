@@ -47,5 +47,5 @@
 ![](https://cdn-images-1.medium.com/max/880/1*lwm80zBldBJT4CzRtoOy2A.gif)
 
 16.使用捲軸分頁瀏覽scroll view
-![](https://cdn-images-1.medium.com/max/880/1*ZJracVBIAM1uWm41myRIuw.gif)
+![](https://cdn-images-1.medium.com/max/880/1*Fk4nr0pAMENNJ901lLL23g.gif)
 
