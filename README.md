@@ -46,6 +46,6 @@
 15.使用 scroll view 元件完成滑動選單 ,並能夠切換水平頁面
 ![](https://cdn-images-1.medium.com/max/880/1*lwm80zBldBJT4CzRtoOy2A.gif)
 
-16.使用捲軸分頁瀏覽scroll view
+16.使用捲軸分頁瀏覽scroll view 
 ![](https://cdn-images-1.medium.com/max/880/1*Fk4nr0pAMENNJ901lLL23g.gif)
 
